@@ -1929,6 +1929,12 @@ iframe {
 .colors-switcher .colors-list a.yellow {
     background-color:#FED136;
 }
+.colors-switcher .colors-list a.pink{
+    background-color:#e030b4;
+}
+.colors-switcher .colors-list a.red{
+    background-color:#cc7e75;
+}
 
 
 
