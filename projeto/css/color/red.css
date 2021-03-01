@@ -189,7 +189,7 @@ fieldset[disabled] .btn-xl.active {
     color: #cc7e75;
 }
 .portfolio-item:hover .portfolio-caption {
-    background-color: rgba(255, 67, 46, 0.8);
+    background-color: rgb(204, 126, 117, 0.8);
 }
 
 .welcome-section:hover .border {
@@ -223,7 +223,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .team-member .team-details {
-    background-color: rgba(255, 67, 46, 0.8);
+    background-color: rgb(204, 126, 117, 0.8);
 }
 
 .counter-item i {
@@ -282,7 +282,7 @@ footer.style-1 .footer-social li a {
 }
 
 .footer-contact-info {
-    background: rgba(255, 67, 46, 0.8);
+    background: rgb(204, 126, 117, 0.8);
 }
 
 footer.style-1 {
@@ -294,7 +294,7 @@ footer.style-1 {
 }
 
 .latest-post .post-details .date {
-    background: rgba(255, 67, 46, 0.8);
+    background: rgb(204, 126, 117, 0.8);
 }
 
 .custom-tab .nav-tabs.nav-justified {
